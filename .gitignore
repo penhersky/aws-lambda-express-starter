@@ -1,0 +1,16 @@
+# package directories
+node_modules
+jspm_packages
+
+# Serverless directories
+.serverless
+
+# Webpack directories
+.webpack
+
+# enviroment
+.env
+.env.development
+.env.production
+.env.development.local
+.env.production.local
